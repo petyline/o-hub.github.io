@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 #  email: "peculiarpety@gmail.com"
-  facebook: obikepeter
-  github: petyline
-  twitter: peterobike
+#  facebook: obikepeter
+#  github: petyline
+#  twitter: peterobike
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
