@@ -12,11 +12,11 @@ author: Peter Godfrey Obike
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "#"
   About Me: "aboutme"
   Resources:
-    - Petyline: "#"
     - Alt Site: "http://www.computersciencematerial.6te.net"
-  Author's home: "#"
+ 
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ social-network-links:
 #  email: "peculiarpety@gmail.com"
 #  facebook: obikepeter
 #  github: petyline
-#  twitter: peterobike
+  twitter: peterobike
 #  rss: true
 #  reddit: yourname
 #  linkedin: daattali
