@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My passion and Area of interest
-subtitle: Each post also has a subtitle
+title: My Passion 
+subtitle: Research Interest
 
 comments: true
 ---
