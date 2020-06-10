@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: My passion and Area of interest
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,17 +8,27 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Considering the need in the academic sector of Nigeria today and the high level of hunger for knowledge, we are dedicated to preparing student not just for school exams but the making of technology that works in our society. and at the same time write reports, seminar,term-paper and project efficiently. This site provides a bridge between myself and Nigerian students in tertiary institutions and also those interested in IT and Computer Science, Mathematical Computations and Statistics. 
 
-**Here is some bold text**
+**Area of Interest**
+- Software Engineering
+- Computational Intelligence
+- Simulation and Modelling
+- Computational Optimization
+- Data Mining and Knowledge Discovery
+- Algorithm and Data Structures
+- Machine theory and Modelling Big Data
 
-## Here is a secondary heading
+## Current Research Hands-on
+- Gradient Descent Optimization for space-control mode switching of ACC Vehicles
 
-Here's a useless table:
+- Adjusted COCOMO for software development effort estimation using ANFIS
 
-| Number | Next number | Previous number |
+Thoughts and Accomplishments:
+
+| Year | Thoughts | Accomplished |
 | :------ |:--- | :--- |
-| Five | Six | Four |
+| 2010-2012 | To fulfil the school and academic honors dream | First Class Honors 2012 |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
