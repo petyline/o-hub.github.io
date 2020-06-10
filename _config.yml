@@ -12,7 +12,6 @@ author: Peter Godfrey Obike
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "#"
   About Me: "aboutme"
   Research: "research"
   Teaching:
@@ -25,8 +24,7 @@ navbar-links:
   Projects:
     - Car Plate Number Detection: "cpn-detection"
     - Parcel Tracking System: "parcel-tracking-system"
-  Resources:
-    - Alt Site: "http://www.computersciencematerial.6te.net"
+  
  
 
 # --- Logo --- #
