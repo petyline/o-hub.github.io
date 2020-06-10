@@ -7,7 +7,7 @@ title: Peter Godfrey Obike
 description: Software Developer and Engineer
 
 # Your name to show in the footer
-author: Some Person
+author: Peter Godfrey Obike
 
 # --- List of links in the navigation bar --- #
 
@@ -15,8 +15,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Petyline: "#"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Alt Site: "http://www.computersciencematerial.6te.net"
+  Author's home: "#"
 
 # --- Logo --- #
 
