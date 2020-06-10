@@ -2,9 +2,7 @@
 layout: post
 title: My passion and Area of interest
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+
 comments: true
 ---
 
@@ -29,14 +27,15 @@ Thoughts and Accomplishments:
 | Year | Thoughts | Accomplished |
 | :------ |:--- | :--- |
 | 2010-2012 | To fulfil the school and academic honors dream | First Class Honors 2012 |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 2013 | National Youth Service Corps and ECO-WMRL UK web development  | accomplished |
+| 2014-2016 | Work Experience on Java, C#.Net, VB.Net, Laravel, Symphony, CISCO 3750 router, Mikrotik CRS125 | Accomplished |
+| 2016-2018 |Masters Degree | Completed |
+| 2018-Date |Atificial Neural Networks Python, Deep Learning, Supervised Learning Algorithm, Datascience and Webscraping | Completed |
 
 
-How about a yummy crepe?
+2012 Photos?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://scontent.fabb1-1.fna.fbcdn.net/v/t1.0-0/c52.0.206.206a/p206x206/541108_536514489696472_440459272_n.jpg?_nc_cat=102&_nc_sid=da31f3&_nc_eui2=AeE5R_zZlSY9KyCx4rL_JIR4OmYuvI0SfUQ6Zi68jRJ9RO82wV3tKQNIhb_f4_uNWNc&_nc_oc=AQnifGaj1hF929RzyMXvYKWSQwNegNcY1rrJuBwS5xUZKowktM9025rHNXxDoXcyOU8&_nc_ht=scontent.fabb1-1.fna&oh=92e28833951c7d546bf73bad771be368&oe=5F053E24)
 
 It can also be centered!
 
