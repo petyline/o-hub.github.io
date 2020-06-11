@@ -4,7 +4,7 @@ title: About me
 subtitle: AI Researcher, Software Engineer, and Data Scientist
 ---
 
-My name is Peter GodfreyObike. My research interests are:
+My name is Peter GodfreyObike. 
 
 - I am a certified Java Professional. 
 - My Research interest is are in Python Deep learning and Data Preprocessing, Matlab and Java.
