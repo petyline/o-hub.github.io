@@ -3,7 +3,7 @@ layout: post
 title: Parcel Tracking System For Courier Companies
 subtitle: Published on Academia by Peter Godfrey Obike
 cover-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [courier, logistics, real-time notification]
 ---
 
  
@@ -22,6 +22,6 @@ And also chapter four consistsof system implementation and documentation which a
 
 Chapter five contains summary, conclusion and recommendation.
 
-The link to the full work can be found here: (https://www.academia.edu/22121115/PARCEL_TRACKING_SYSTEM_FOR_COURIER_COMPANIES)
+The link to the full work can be found here: ([https://www.academia.edu/22121115/PARCEL_TRACKING_SYSTEM_FOR_COURIER_COMPANIES](https://www.academia.edu/22121115/parcel_tracking_system_for_courier_companies))
 
  
